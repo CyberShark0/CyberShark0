@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, I'm Tyler👋
+<a href="https://linkedin.com/in/tylermrow">
 
-<!--
-**CyberShark0/CyberShark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
 
-Here are some ideas to get you started:
+I am currently a student at Wilmington University, studying cybersecurity, dedicated to solving complex security problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+[Provide Objective]
+
+My journey in higher education has led me to a burning curiosity of computers, more specifically cybersecurity. Finding this field has me determined to break into the industry, specifically aiming to join a Security operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+[Provide Skills and associated project. Make sure to hyperlink the project.]
+
+| Skill                                          | Associated Project         |
+|------------------------------------------------|----------------------------|
+|
