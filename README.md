@@ -1,5 +1,8 @@
 ### Hello, I'm Tyler👋
-<a href="https://linkedin.com/in/tylermrow">
+<a href="https://linkedin.com/in/tylermrow"> 
+www.linkedin.com/in/tylermrow
+
+
 
 
 I am currently a student at Wilmington University, studying cybersecurity, dedicated to solving complex security problems.
