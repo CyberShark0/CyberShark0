@@ -13,6 +13,11 @@ My journey in higher education has led me to a burning curiosity of computers, m
 ## Skills
 [Provide Skills and associated project. Make sure to hyperlink the project.]
 
-| Skill                                          | Associated Project         |
-|------------------------------------------------|----------------------------|
-|
+| Skill                                                  | Associated Project         |
+|--------------------------------------------------------|----------------------------|
+| Preventative Protection                                | NICE Challenge             |
+| Forensically Finding Files                             | NICE Challenge             |
+| Penetration Testing                                    | NICE Challenge             |
+| Forensically Analyzing Artifacts                       | NICE Challenge             |
+| Building and Configuring Log Servers                   | NICE Challenge             |
+| Defending against an active trojan horse malware       | NICE Challenge             |
