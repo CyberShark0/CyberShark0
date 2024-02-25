@@ -3,7 +3,7 @@
 www.linkedin.com/in/tylermrow
 
 
-
+## Introduction
 
 I am currently a student at Wilmington University, studying cybersecurity, dedicated to solving complex security problems.
 
